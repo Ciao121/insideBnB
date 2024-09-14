@@ -1,0 +1,13 @@
+{
+  "date": "2024-09-14T08:04:04.937Z",
+  "source": "InsideBnB.com",
+  "description": "The file provides, for each state, the number of properties processed, along with the number of properties in each administrative level 1 division. States are listed with their respective two-letter country code, except for U.S. states, which are shown with their full name.",
+  "results": [
+    {
+      "admin1": "Abruzzo",
+      "record_count": 7482,
+      "total_records": 404831,
+      "state": "IT"
+    }
+  ]
+}
